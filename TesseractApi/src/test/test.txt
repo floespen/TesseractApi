@@ -1,0 +1,34 @@
+ 
+
+HEEHEERHEERE N 0 I
+
+Projekt - DV-gestützter Geschäftsprozess Wiesbaden-Fachinformatik AE - 03.06.2019 ee
+
+ 
+
+ 
+
+Der Weg mit dem Dokument-Management-System (DMS) zum papierlosen Büro.
+
+Um das Maximum für unser Unternehmen herauszuholen möchten wir unsere Geschäftsprozesse optimieren. Die langsamen und manuellen
+Tätigkeiten Dokumente zu verwalten sollen auf schnelle elektronische Arbeitsabläufe übertragen werden. Die Einführung eines
+Dokumentenmanagementsystems mitt elektronischem Workflow bietet uns diese einmalige Chance. Das DMS soll uns helfen Dokumente elektronisch
+zu archivieren und von überall einsehbar zu machen. Es soll uns auch helfen die Dokumente zu Kategorisieren und zu durchsuchen. Entwickeln Sie ein
+System (Software), dass es uns ermöglicht Dokumente zu erfassen, zu visualisieren und zu durchsuchen (Tt exterkennung), um unsere Geschäftsprozesse
+zu optimieren. Für den Anfang soll das System für einen Anwender entwickelt werden.
+
+Product-Backlog
+Übersicht des Kunden mit Priorisierung (Priority) und Einschätzung des Aufwands (Estimation). Für nähere Vorstellungen und genauere
+
+Beschreibungen bzw. Erläuterungen, setzen Sie sich bitte direkt mit dem Kunden in Verbindung! - Während der Planungsphase erklärt sich der
+Kunde bereit Werktags für Fragen zur Verfügung zu stehen.
+
+Priority
+
+Benutzerfreundliches GUl: Dokumente (JPG und TIP) laden, visualisieren und Beschreibungen editieren Be. 1
+bzw. speichern (Indexierung mit Keywords, Kategorien) - Rücksprache mit Kunde!
+
+ein ‚Keywords, Kategorien und OCR):
+
+ 
+
